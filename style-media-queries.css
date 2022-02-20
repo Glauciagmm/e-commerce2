@@ -1,0 +1,115 @@
+@media (max-width: 615px){
+    
+    header{
+        width: 615px;
+        background-size:;
+    }
+     .enjoy { /*formatos del titulo*/
+       width: 300px;
+       font-size: 35px;
+       padding-top: 50px;  
+     }
+     .logo { /*formatos del logo*/
+        height: 178px;
+        width: auto;
+        margin-left: -5%;
+     }
+     .menu{ /*formatos del menu de navegación*/
+        flex-direction: column;
+        padding: -5px; 
+     }
+     .enlaces{ /*formatos del menu de navegación*/
+        flex-direction: column;
+     }
+     .enlacesmenu{ /*formatos del texto del menu de navegación*/
+        flex-direction: column;
+     }
+     .uil{
+        flex-direction: column;
+        align-items: flex-end;
+     }
+     .iconos{ /*formatos de los iconos lupa, carito de la compra y regreso a la pagina anterior*/
+    
+     }
+     .titulo{ /*formatos de los subtitulos*/
+        font-size: 25px;
+        
+     }
+     .seccionproducto { 
+        flex-direction: column;
+    
+     }
+     .cajaproducto img {
+        height: 300px;
+        align-items: center;
+       
+     }
+     .cajaproducto p {
+        font-size: 20px;
+       
+     }
+     .rectangulo {
+         flex-direction: column;
+         line-height: 30px;
+         align-content: center;
+         text-align: center;
+         margin-left: 10px;
+     }
+     footer {
+     height: 80%;
+     }
+     
+.paginaproducto{
+   
+   }
+.divizquierda {
+
+       
+
+   }
+.divizquierda img {
+
+   }
+
+.divderecha {
+ 
+   }
+.tituloproducto {
+  
+   }
+.descripcionproducto {
+   
+   }
+.precioproducto {
+       
+   }
+.whatsapp {
+  
+
+}
+
+#iconowhatsapp {
+
+}
+.contenedorbotones {
+
+}
+.buttonRemove {
+align-items: flex-end;
+} 
+
+.contadorProducto{
+ 
+}
+.buttonPlus {
+ 
+} 
+
+.buttonAddCart {
+ 
+}
+
+.submenu{
+
+       }
+    }

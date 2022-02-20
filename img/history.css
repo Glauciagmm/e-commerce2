@@ -1,0 +1,130 @@
+* {
+   font-family: 'Roboto', sans-serif;
+} 
+header{
+   display: flex;
+   height: 230px;
+   width: auto;
+   background-image: url("./img/483Z5.png");
+}
+.logo {
+   width: auto;
+   height: 138px;
+   padding: 20px;
+   margin-left: 50px;
+   flex-shrink: 3;
+}
+.menu{
+   display: flex;
+}
+.empresa {
+   width: 398px;
+   height: 70px;
+   padding: 20px;
+   margin-top: 50px;
+   flex-shrink: 3;
+}
+.enlaces{
+   display: flex;
+   justify-content: flex-start;
+   padding: 20px;
+   background: none;
+}
+.enlacesmenu{
+   text-decoration: none;
+   padding: 50px;
+   font-size: 24px;
+   color: black;
+   font-style: normal;
+   font-weight: 700;
+   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.uil{
+   font-size: 28px;
+   padding-top: 50px;
+   padding-left: 20px;
+}
+.iconos{
+   display: flex;
+   justify-content: flex-end;
+   padding: 20px;
+   background: none;
+   padding-left: 500px;
+}
+.titulo{
+   font-family: 'Lobster', cursive;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 38px;
+   line-height: 45px;
+   color: #F5B9FA;
+   -webkit-text-stroke: 1px black;
+   text-transform: uppercase;
+   width: 1750px;
+   height: 45px;
+   background:linear-gradient(90deg, #F7FF00 0%, #DB36A4 100%);
+   border-radius: 10px;
+   border: 1px solid #000000;
+   box-sizing: border-box;
+   border-radius: 50px;
+   text-align: center;
+   margin-left: 70px;
+}
+.nuestrahistoria{
+   text-align: center;
+   font-size: 20px;
+   line-height: 35px;
+   padding-top: 40px;
+   margin-left: 125px;
+   margin-right: 125px;
+}
+.seccionproducto {
+   display:flex;
+   flex-wrap: wrap;
+   flex-shrink: 5;
+   justify-content: space-between;
+   padding: 20px;
+   width: auto;
+   padding-left: 50px;
+}
+
+.cajaproducto img {
+   display: flex;
+   height: 170px;
+   flex-shrink: 3;
+   margin: auto;
+   padding-top: 25px;
+}
+
+.cajaproducto p {
+   text-align: center;
+   font-size: 14px;
+   padding-top: 10px;
+}
+
+
+footer {
+   display: flex;
+   width: 1750px;
+   justify-content: center;
+   padding: 50px;
+}
+footer p {
+   padding: 50px;
+}
+
+.whatsapp {
+   position:fixed;
+   width: 80px;
+   height: 80px;
+   bottom:40px;
+   right:40px;
+   background-color:#25d366;
+   color:#FFF;
+   border-radius:50px;
+   z-index:100;
+}
+
+#iconowhatsapp {
+       font-size: 60px; 
+}
